@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestePratico",
+    "\\TestePratico\\src",
+    "\\TestePratico\\src\\Controllers",
+    "\\TestePratico\\src\\Data",
+    "\\TestePratico\\src\\Models",
+    "\\TestePratico\\src\\Repositories",
+    "\\TestePratico\\src\\Repositories\\implementations",
+    "\\TestePratico\\src\\Services"
+  ],
+  "SelectedNode": "\\TestePratico\\TestePratico.csproj",
+  "PreviewInSolutionExplorer": false
+}
